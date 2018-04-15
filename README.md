@@ -40,4 +40,5 @@ in your web browser for source installation instructions.
 - [Addition using struct](examples/add_using_stuct.go)
 - [Change struct value](examples/change_struct_value.go)
 - [Simple concurrency](examples/simple_concurrency.go)
-- [Go routine](examples/goroutine1.go)
+- [Go routine](examples/goroutine.go)
+- [Go routine sync](examples/goroutine_sync.go)
