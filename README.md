@@ -32,3 +32,4 @@ in your web browser for source installation instructions.
 - [Welcome go](examples/welcome.go)
 - [Square](examples/square.go)
 - [Random number](examples/random.go)
+- [Addition](examples/add.go)
