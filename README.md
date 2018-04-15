@@ -1,4 +1,4 @@
-# Learn-go=
+# Learn-go
 
 Learn go with simple examples.
 
