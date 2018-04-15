@@ -30,3 +30,5 @@ in your web browser for source installation instructions.
 ## Table of contents
 
 - [Welcome go](examples/welcome.go)
+- [Square](examples/square.go)
+- [Random number](examples/random.go)
