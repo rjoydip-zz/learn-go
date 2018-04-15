@@ -30,7 +30,11 @@ in your web browser for source installation instructions.
 ## Table of contents
 
 - [Welcome go](examples/welcome.go)
+- [Custing](examples/custing.go)
 - [Square](examples/square.go)
 - [Random number](examples/random.go)
 - [Addition](examples/add.go)
 - [Return multiple value](examples/return_mutiple_value.go)
+- [Pointer](examples/pointer.go)
+- [Struct](examples/struct.go)
+- [Addition using struct](examples/add_using_stuct.go)
