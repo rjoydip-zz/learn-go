@@ -44,3 +44,4 @@ in your web browser for source installation instructions.
 - [Go routine sync](examples/goroutine_sync.go)
 - [Defer](examples/defer.go)
 - [Defer for](examples/defer_for.go)
+- [Go routine sync with defer](examples/goroutine_sync_defer.go)
