@@ -46,3 +46,4 @@ in your web browser for source installation instructions.
 - [Defer for](examples/defer_for.go)
 - [Go routine sync with defer](examples/goroutine_sync_defer.go)
 - [Panic](examples/panic.go)
+- [Recover](examples/recover.go)
