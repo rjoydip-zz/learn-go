@@ -42,3 +42,4 @@ in your web browser for source installation instructions.
 - [Simple concurrency](examples/simple_concurrency.go)
 - [Go routine](examples/goroutine.go)
 - [Go routine sync](examples/goroutine_sync.go)
+- [Defer](examples/defer.go)
