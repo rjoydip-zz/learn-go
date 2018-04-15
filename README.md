@@ -38,3 +38,4 @@ in your web browser for source installation instructions.
 - [Pointer](examples/pointer.go)
 - [Struct](examples/struct.go)
 - [Addition using struct](examples/add_using_stuct.go)
+- [Change struct value](examples/change_struct_value.go)
