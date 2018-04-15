@@ -33,3 +33,4 @@ in your web browser for source installation instructions.
 - [Square](examples/square.go)
 - [Random number](examples/random.go)
 - [Addition](examples/add.go)
+- [Return multiple value](examples/return_mutiple_value.go)
